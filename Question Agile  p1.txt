@@ -1,0 +1,93 @@
+q1.What is build in Agile ?
+ans=In the Agile model, a build means creating a working version of the software after completing a small part of development (called an iteration or sprint).
+
+Simple definition:
+
+A build in Agile is a tested, working piece of the application that is ready to show, review, or release after each sprint.
+<------------------------------------------------------------------------------------------------------------->
+
+Q2. what is test Cycle?
+A test cycle in Agile is an iterative, continuous process of testing software within a sprint, aiming for immediate feedback, quick defect fixes, and high-quality, frequent releases
+<------------------------------------------------------------------------------------------------------------->
+
+Q3.
+What is Sprint ?
+Simple definition:
+A sprint is a time-boxed iteration (usually 1–4 weeks) where a specific set of features is developed, tested, and completed.
+<------------------------------------------------------------------------------------------------------------->
+Q4.What is Sprint Velocity
+Sprint Velocity is the amount of work a team completes in one sprint, usually measured in story points.
+Example:
+Sprint 1 → Completed 20 story points
+Sprint 2 → Completed 25 story points
+Sprint 3 → Completed 30 story points
+
+👉 Average Sprint Velocity = (20 + 25 + 30) / 3 = 25 story points
+
+So, your team can handle around 25 story points per sprint.
+<------------------------------------------------------------------------------------------------------------>
+Q5.What is Chicken?
+A chicken is a non-core participant who can observe or give input but does not actively build the product.
+Example - Manager
+         StakeHolder
+
+// as per sir New Come in company like fresher
+<------------------------------------------------------------------------------------------------------------>
+Q6.What is Done Done Done?
+Done Done Done = 100% complete + tested + approved + ready to use
+
+<------------------------------------------------------------------------------------------------------------>
+
+Q7.What is Scrum?
+Scrum helps teams build software faster and better by breaking work into small pieces and delivering them step by step.
+
+<------------------------------------------------------------------------------------------------------------>
+
+Q8.What is Epic?
+An Epic in Agile is a large piece of work that is too big to complete in a single sprint, so it is broken down into smaller user stories.
+
+<------------------------------------------------------------------------------------------------------------>
+
+Q9.What is BreakDown Chat?
+ visual project management tool used to analyze data, such as task distribution, team workload, and project progress
+
+<------------------------------------------------------------------------------------------------------------>
+ Q9.What is User Story?
+short, simple descriptions of a feature told from the perspective of the user, focusing on the value they receive rather than technical requirements
+as a _____
+i Want ____
+so  that____
+
+<------------------------------------------------------------------------------------------------------------>
+Q10.What is impediment backlog
+a prioritized, transparent list of obstacles, blockers, or issues that hinder a team's progress, productivity, or ability to meet sprint goal.
+problem facuing during work that document
+
+<------------------------------------------------------------------------------------------------------------>
+Q11.what is Scrum meeting/Stand up call?
+a meeting that was discuss what was work done in yesterday and what problem facing . what will work today.
+-10 -15 min
+-time as per company Standerd after company start morning
+
+<------------------------------------------------------------------------------------------------------------>
+Q12.What is scum board/story board?
+a digital or physical representation of the progress and ownership of various tasks within the Agile sprint.
+
+<------------------------------------------------------------------------------------------------------------>
+Q13 what are Scrum team?
+as per book
+
+<------------------------------------------------------------------------------------------------------------>
+Q14.what is sprint 0/sprint planning?
+as per book
+
+<------------------------------------------------------------------------------------------------------------>
+Q15 Diff traditional model and Agile model
+Q16 Diff between product backlog and sprint backlog
+
+Q17 Diff scrum and kunbun
+*Workflow: Scrum uses fixed-length Sprints. Kanban is a continuous
+*flow.Roles: Scrum requires specific roles (Scrum Master, Product Owner, Team). Kanban has no required roles.
+*Changes: Scrum generally prohibits changes during a sprint. Kanban allows changes at any time.
+*Metrics: Scrum measures performance using velocity (story points per sprint). Kanban measures efficiency using cycle time (time to complete a task).
+*Boards: Scrum boards are cleared after each sprint, while Kanban boards are used continuously.
