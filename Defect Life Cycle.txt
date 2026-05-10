@@ -1,0 +1,72 @@
+                                               Defect Life Cycle
+Q Explain Defect Life Cycle 
+   in book dig .
+---------------------------------------------------------------------------------------------------------------
+Q What diff between bug,error,failure,defect
+-bug=informal name of bug at testing phase . identify by tester and developer.
+-error=a human mistake during writing code and design . 2 type RTE and CTE . development phase.
+-failure= cascading bug. that menas from one bug another bun can occure.
+-defect= the customer or end user requirement was not satisfy.
+---------------------------------------------------------------------------------------------------------------
+Q.what are tool used in defect tracking
+-jira
+-bugZila
+-Redmine
+-GitHub Issue
+---------------------------------------------------------------------------------------------------------------
+Q.What is defect Seeding.
+Intentially add some defect for checking work of testing team will work properly or not
+---------------------------------------------------------------------------------------------------------------
+Q.What is defect Masking
+- one defect hiding or masking another defect
+---------------------------------------------------------------------------------------------------------------
+Q.What is pestiside paradox
+- some test are repedately contiounsly.then they will eventully finding new bugs.
+--------------------------------------------------------------------------------------------------------------Q what are defect trige
+ a structured process in software development used to prioritize, evaluate, and assign bugs based on their severity, risk, and impact on the system
+--------------------------------------------------------------------------------------------------------------
+Q 7 principle of testing 
+in book
+--------------------------------------------------------------------------------------------------------------
+Q What are Early testing / LeftShift Testing
+- test start in starting phase not end
+--------------------------------------------------------------------------------------------------------------
+Q What are differed status/postpone status
+- this status in defect life cycle is the developer assume it bug but he will not sufficient time or not bug is high priority that time developer send that work as postpone
+--------------------------------------------------------------------------------------------------------------
+QWhat to do after not Reposiable bug
+-Re-Verify and Strengthen Your Evidence
+-Document and Re-Report
+- Change Your Strategy etc
+--------------------------------------------------------------------------------------------------------------
+Q. Why we get duplicate bug and how to avoid it
+-Common bug find two tetser
+-old project reopen that time 
+-avoid--
+
+--------------------------------------------------------------------------------------------------------------
+Q Few Example of R.F.E
+-insta
+-WhatsApp
+-ui
+
+--------------------------------------------------------------------------------------------------------------
+Q Diff Between Sevarity and Priority
+| Point         | Severity                                      | Priority                                                 |
+
+| Definition    | Severity defines how serious the defect is.   | Priority defines how quickly the defect should be fixed.|
+| Focus         | Focuses on impact on application/functionality| Focuses on urgency of fixing the defect.                 |
+| Decided By    | Decided by Tester / QA Team.                  | Decided by Manager / Client / Product Owner.             |
+| Related To    | Technical impact.                             | Business importance.                                     |
+| Types         | Critical, Major, Minor, Low.                  | High, Medium, Low.                                       |
+| Main Question | “How severe is the bug?”                      | “How soon should it be fixed?”                           |
+| Effect        | Affects system performance and functionality. | Affects release schedule and customer requ 
+--------------------------------------------------------------------------------------------------------------
+Q give me example of high sevority and low priority
+-Application crashes in a rarely used admin feature.
+-Backup system fails during yearly maintenance process.
+-Report export button crashes only in old browser version no customer uses.
+--------------------------------------------------------------------------------------------------------------
+Q give me example of high priority and low swevirity-
+-Spelling mistake on homepage.
+-Company logo not displaying on login page.
